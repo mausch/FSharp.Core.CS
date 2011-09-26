@@ -1,0 +1,1 @@
+FSharp.Core.CS was merged into [FSharpx](https://github.com/fsharp/fsharpx)
